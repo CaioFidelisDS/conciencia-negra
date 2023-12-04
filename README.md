@@ -1,2 +1,1 @@
-# conciencia-negra
-Projeto Aula de Programação Web II
+# Projeto Aula de Programação Web II
